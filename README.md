@@ -1,3 +1,2 @@
-# ShareVolume
-
-Generated application for ShareVolume
+bash
+    git clone https://github.com/22f3000226/ShareVolume.git
